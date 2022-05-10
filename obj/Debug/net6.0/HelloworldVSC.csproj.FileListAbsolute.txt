@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\bin\Debug\net6.0\HelloworldVSC.exe
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\bin\Debug\net6.0\HelloworldVSC.deps.json
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\bin\Debug\net6.0\HelloworldVSC.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\bin\Debug\net6.0\HelloworldVSC.dll
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\bin\Debug\net6.0\HelloworldVSC.pdb
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.dll
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\refint\HelloworldVSC.dll
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.pdb
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\HelloworldVSC.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\GeeksHubs temario\HelloWorldC-VSC\obj\Debug\net6.0\ref\HelloworldVSC.dll
